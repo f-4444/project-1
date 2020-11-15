@@ -139,7 +139,7 @@ nav{
 
    
  }
-@media (max-width:780px){
+@media (max-width:800px){
 	#alinks{
     display:flex;
     flex-direction:column;
