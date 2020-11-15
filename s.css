@@ -146,5 +146,12 @@ nav{
     padding:20px;
    }
 }
+
+@media(max-width:635px){
+	#adress{
+		width:90%
+	        padding:10px:;
+	}
+}
  
  
