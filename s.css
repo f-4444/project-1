@@ -150,7 +150,8 @@ nav{
 @media(max-width:635px){
 	#adress{
 		width:90%
-	        padding:10px:;
+	        padding:10px;
+		margin-top:0px;
 	}
 }
  
