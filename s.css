@@ -137,11 +137,14 @@ nav{
    }
 
 
-   #alinks{
+   
+ }
+@media (max-width;780){
+	#alinks{
     display:flex;
     flex-direction:column;
     padding:20px;
    }
- }
+}
  
  
